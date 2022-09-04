@@ -1,0 +1,25 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx9dec57692a6782a3",
+# 公众号appSecret
+"app_secret": "6a55ec14c23f33a4fc1fc74912dd3786",
+# 模板消息id
+"template_id": "Exqfz4qZKOk4d9N3aUcd3bTKBDziHG-BsT2Waz6gYJg",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["o5nh75q6SdZWDYpS-HKJi9-fVFw8"],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "7c5a50f70ea2403c93583ba7530318a7",
+# 天行数据apikey
+"tian_api": "94945b98ffc3e8626c6925219fb43986",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "厦门",
+# 在一起的日子，格式同上
+"love_date": "2022-06-04",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "希望妮子可以是一只开心的猫咪，我之前做了一些让你不开心的事，很抱歉，我会陪着你的。摸摸脑袋~",
+# 金句英文
+"note_en": ""
+}
